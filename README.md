@@ -30,6 +30,7 @@ System should maintain customer records and booking details.
 5. Build menu in main.py
 
 ## Student Breakdown
-- Student A: Customer class + linking bookings
-- Student B: Booking class + booking creation
-- Student C: TravelAgency class + reports + menu integration
+- Bheemreddy Akhila : Customer class + linking bookings
+- Poojala Tharuni: Booking class + booking creation
+- Fahimida Begum: TravelAgency class + reports + menu integration
+
