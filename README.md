@@ -54,6 +54,11 @@ travel_booking_system/
 - Poojala Tharuni: Booking class + booking creation
 - Fahimida Begum: TravelAgency class + reports + menu integration
 
+## How to Run
+-main.py
+
+
+
 
 
 
