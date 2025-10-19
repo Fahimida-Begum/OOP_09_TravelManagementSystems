@@ -3,9 +3,10 @@ A simple Python-based Object-Oriented Programming(OOP) project that simulates a 
 Users can create customers,make bookings,view reports,and manage data efficiently.
 
 ## Problem Statement
+--
 Design a travel agency system where customers can make bookings for trips.  
 System should maintain customer records and booking details.
---
+
 ## Features
 -Add and manage customers
 
@@ -53,6 +54,7 @@ travel_booking_system/
 - Bheemreddy Akhila : Customer class + linking bookings
 - Poojala Tharuni: Booking class + booking creation
 - Fahimida Begum: TravelAgency class + reports + menu integration
+
 
 
 
