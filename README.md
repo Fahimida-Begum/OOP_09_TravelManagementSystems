@@ -1,4 +1,4 @@
-# Travel Booking System 
+# Travel Management Systems
 A simple Python-based Object-Oriented Programming(OOP) project that simulates a travel agency system.
 Users can create customers,make bookings,view reports,and manage data efficiently.
 
@@ -53,6 +53,7 @@ travel_booking_system/
 - Bheemreddy Akhila : Customer class + linking bookings
 - Poojala Tharuni: Booking class + booking creation
 - Fahimida Begum: TravelAgency class + reports + menu integration
+
 
 
 
